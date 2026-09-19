@@ -1,5 +1,5 @@
 This repository is generated. Do not edit its files directly.
 
 Source: https://github.com/dozigden/boardoil
-Commit: c00da3af0d21e0bd27c3ed4ced920b5917be54c6
+Commit: d6bd7ccda767d94299aee099288a32bb5800dd99
 Publication: run the Publish static demo workflow in the source repository.
