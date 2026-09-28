@@ -1,5 +1,5 @@
 {
-  "generatedAtUtc": "2026-09-12T12:02:58.246Z",
+  "generatedAtUtc": "2026-09-27T12:46:05.585Z",
   "packageSource": "resolved npm production dependency graph + bundled assets + NuGet packages from BoardOil.Api/packages.lock.json",
   "copiedLicences": [
     {
@@ -13,30 +13,12 @@
     },
     {
       "ecosystem": "npm",
-      "packageName": "@babel/generator",
-      "version": "8.0.0",
-      "declaredLicence": "MIT",
-      "sourceType": "package",
-      "sourceFile": "node_modules/@babel/generator/LICENSE",
-      "outputFile": "compliance/third-party-licenses/npm-babel-generator.txt"
-    },
-    {
-      "ecosystem": "npm",
       "packageName": "@babel/helper-string-parser",
       "version": "7.29.7",
       "declaredLicence": "MIT",
       "sourceType": "package",
       "sourceFile": "node_modules/@babel/helper-string-parser/LICENSE",
-      "outputFile": "compliance/third-party-licenses/npm-babel-helper-string-parser-7.29.7.txt"
-    },
-    {
-      "ecosystem": "npm",
-      "packageName": "@babel/helper-string-parser",
-      "version": "8.0.0",
-      "declaredLicence": "MIT",
-      "sourceType": "package",
-      "sourceFile": "node_modules/@babel/generator/node_modules/@babel/helper-string-parser/LICENSE",
-      "outputFile": "compliance/third-party-licenses/npm-babel-helper-string-parser-8.0.0.txt"
+      "outputFile": "compliance/third-party-licenses/npm-babel-helper-string-parser.txt"
     },
     {
       "ecosystem": "npm",
@@ -45,16 +27,7 @@
       "declaredLicence": "MIT",
       "sourceType": "package",
       "sourceFile": "node_modules/@babel/helper-validator-identifier/LICENSE",
-      "outputFile": "compliance/third-party-licenses/npm-babel-helper-validator-identifier-7.29.7.txt"
-    },
-    {
-      "ecosystem": "npm",
-      "packageName": "@babel/helper-validator-identifier",
-      "version": "8.0.4",
-      "declaredLicence": "MIT",
-      "sourceType": "package",
-      "sourceFile": "node_modules/@babel/generator/node_modules/@babel/helper-validator-identifier/LICENSE",
-      "outputFile": "compliance/third-party-licenses/npm-babel-helper-validator-identifier-8.0.4.txt"
+      "outputFile": "compliance/third-party-licenses/npm-babel-helper-validator-identifier.txt"
     },
     {
       "ecosystem": "npm",
@@ -63,16 +36,7 @@
       "declaredLicence": "MIT",
       "sourceType": "package",
       "sourceFile": "node_modules/@babel/parser/LICENSE",
-      "outputFile": "compliance/third-party-licenses/npm-babel-parser-7.29.8.txt"
-    },
-    {
-      "ecosystem": "npm",
-      "packageName": "@babel/parser",
-      "version": "8.0.4",
-      "declaredLicence": "MIT",
-      "sourceType": "package",
-      "sourceFile": "node_modules/@babel/generator/node_modules/@babel/parser/LICENSE",
-      "outputFile": "compliance/third-party-licenses/npm-babel-parser-8.0.4.txt"
+      "outputFile": "compliance/third-party-licenses/npm-babel-parser.txt"
     },
     {
       "ecosystem": "npm",
@@ -81,16 +45,7 @@
       "declaredLicence": "MIT",
       "sourceType": "package",
       "sourceFile": "node_modules/@babel/types/LICENSE",
-      "outputFile": "compliance/third-party-licenses/npm-babel-types-7.29.8.txt"
-    },
-    {
-      "ecosystem": "npm",
-      "packageName": "@babel/types",
-      "version": "8.0.4",
-      "declaredLicence": "MIT",
-      "sourceType": "package",
-      "sourceFile": "node_modules/@babel/generator/node_modules/@babel/types/LICENSE",
-      "outputFile": "compliance/third-party-licenses/npm-babel-types-8.0.4.txt"
+      "outputFile": "compliance/third-party-licenses/npm-babel-types.txt"
     },
     {
       "ecosystem": "npm",
@@ -149,7 +104,7 @@
     {
       "ecosystem": "npm",
       "packageName": "@jridgewell/sourcemap-codec",
-      "version": "1.5.5",
+      "version": "1.6.0",
       "declaredLicence": "MIT",
       "sourceType": "package",
       "sourceFile": "node_modules/@jridgewell/sourcemap-codec/LICENSE",
@@ -167,7 +122,7 @@
     {
       "ecosystem": "npm",
       "packageName": "@lucide/vue",
-      "version": "1.38.0",
+      "version": "1.47.0",
       "declaredLicence": "ISC",
       "sourceType": "package",
       "sourceFile": "node_modules/@lucide/vue/LICENSE",
@@ -176,7 +131,7 @@
     {
       "ecosystem": "npm",
       "packageName": "@microsoft/signalr",
-      "version": "10.0.0",
+      "version": "10.0.11",
       "declaredLicence": "MIT",
       "sourceType": "manual",
       "sourceFile": "compliance/third-party-licenses-manual/npm-microsoft-signalr.txt",
@@ -472,15 +427,6 @@
     },
     {
       "ecosystem": "npm",
-      "packageName": "@types/jsesc",
-      "version": "2.5.1",
-      "declaredLicence": "MIT",
-      "sourceType": "package",
-      "sourceFile": "node_modules/@types/jsesc/LICENSE",
-      "outputFile": "compliance/third-party-licenses/npm-types-jsesc.txt"
-    },
-    {
-      "ecosystem": "npm",
       "packageName": "@vue-macros/common",
       "version": "3.1.4",
       "declaredLicence": "MIT",
@@ -491,7 +437,7 @@
     {
       "ecosystem": "npm",
       "packageName": "@vue/compiler-core",
-      "version": "3.5.40",
+      "version": "3.5.43",
       "declaredLicence": "MIT",
       "sourceType": "package",
       "sourceFile": "node_modules/@vue/compiler-core/LICENSE",
@@ -500,7 +446,7 @@
     {
       "ecosystem": "npm",
       "packageName": "@vue/compiler-dom",
-      "version": "3.5.40",
+      "version": "3.5.43",
       "declaredLicence": "MIT",
       "sourceType": "package",
       "sourceFile": "node_modules/@vue/compiler-dom/LICENSE",
@@ -509,7 +455,7 @@
     {
       "ecosystem": "npm",
       "packageName": "@vue/compiler-sfc",
-      "version": "3.5.40",
+      "version": "3.5.43",
       "declaredLicence": "MIT",
       "sourceType": "package",
       "sourceFile": "node_modules/@vue/compiler-sfc/LICENSE",
@@ -518,7 +464,7 @@
     {
       "ecosystem": "npm",
       "packageName": "@vue/compiler-ssr",
-      "version": "3.5.40",
+      "version": "3.5.43",
       "declaredLicence": "MIT",
       "sourceType": "package",
       "sourceFile": "node_modules/@vue/compiler-ssr/LICENSE",
@@ -527,61 +473,34 @@
     {
       "ecosystem": "npm",
       "packageName": "@vue/devtools-api",
-      "version": "7.7.10",
+      "version": "8.2.1",
       "declaredLicence": "MIT",
       "sourceType": "package",
       "sourceFile": "node_modules/@vue/devtools-api/LICENSE",
-      "outputFile": "compliance/third-party-licenses/npm-vue-devtools-api-7.7.10.txt"
-    },
-    {
-      "ecosystem": "npm",
-      "packageName": "@vue/devtools-api",
-      "version": "8.2.1",
-      "declaredLicence": "MIT",
-      "sourceType": "package",
-      "sourceFile": "node_modules/vue-router/node_modules/@vue/devtools-api/LICENSE",
-      "outputFile": "compliance/third-party-licenses/npm-vue-devtools-api-8.2.1.txt"
+      "outputFile": "compliance/third-party-licenses/npm-vue-devtools-api.txt"
     },
     {
       "ecosystem": "npm",
       "packageName": "@vue/devtools-kit",
-      "version": "7.7.10",
+      "version": "8.2.1",
       "declaredLicence": "MIT",
       "sourceType": "package",
       "sourceFile": "node_modules/@vue/devtools-kit/LICENSE",
-      "outputFile": "compliance/third-party-licenses/npm-vue-devtools-kit-7.7.10.txt"
-    },
-    {
-      "ecosystem": "npm",
-      "packageName": "@vue/devtools-kit",
-      "version": "8.2.1",
-      "declaredLicence": "MIT",
-      "sourceType": "package",
-      "sourceFile": "node_modules/vue-router/node_modules/@vue/devtools-kit/LICENSE",
-      "outputFile": "compliance/third-party-licenses/npm-vue-devtools-kit-8.2.1.txt"
+      "outputFile": "compliance/third-party-licenses/npm-vue-devtools-kit.txt"
     },
     {
       "ecosystem": "npm",
       "packageName": "@vue/devtools-shared",
-      "version": "7.7.10",
+      "version": "8.2.1",
       "declaredLicence": "MIT",
       "sourceType": "package",
       "sourceFile": "node_modules/@vue/devtools-shared/LICENSE",
-      "outputFile": "compliance/third-party-licenses/npm-vue-devtools-shared-7.7.10.txt"
-    },
-    {
-      "ecosystem": "npm",
-      "packageName": "@vue/devtools-shared",
-      "version": "8.2.1",
-      "declaredLicence": "MIT",
-      "sourceType": "package",
-      "sourceFile": "node_modules/vue-router/node_modules/@vue/devtools-shared/LICENSE",
-      "outputFile": "compliance/third-party-licenses/npm-vue-devtools-shared-8.2.1.txt"
+      "outputFile": "compliance/third-party-licenses/npm-vue-devtools-shared.txt"
     },
     {
       "ecosystem": "npm",
       "packageName": "@vue/reactivity",
-      "version": "3.5.40",
+      "version": "3.5.43",
       "declaredLicence": "MIT",
       "sourceType": "package",
       "sourceFile": "node_modules/@vue/reactivity/LICENSE",
@@ -590,7 +509,7 @@
     {
       "ecosystem": "npm",
       "packageName": "@vue/runtime-core",
-      "version": "3.5.40",
+      "version": "3.5.43",
       "declaredLicence": "MIT",
       "sourceType": "package",
       "sourceFile": "node_modules/@vue/runtime-core/LICENSE",
@@ -599,7 +518,7 @@
     {
       "ecosystem": "npm",
       "packageName": "@vue/runtime-dom",
-      "version": "3.5.40",
+      "version": "3.5.43",
       "declaredLicence": "MIT",
       "sourceType": "package",
       "sourceFile": "node_modules/@vue/runtime-dom/LICENSE",
@@ -608,7 +527,7 @@
     {
       "ecosystem": "npm",
       "packageName": "@vue/server-renderer",
-      "version": "3.5.40",
+      "version": "3.5.43",
       "declaredLicence": "MIT",
       "sourceType": "package",
       "sourceFile": "node_modules/@vue/server-renderer/LICENSE",
@@ -617,7 +536,7 @@
     {
       "ecosystem": "npm",
       "packageName": "@vue/shared",
-      "version": "3.5.40",
+      "version": "3.5.43",
       "declaredLicence": "MIT",
       "sourceType": "package",
       "sourceFile": "node_modules/@vue/shared/LICENSE",
@@ -694,15 +613,6 @@
       "sourceType": "package",
       "sourceFile": "node_modules/confbox/LICENSE",
       "outputFile": "compliance/third-party-licenses/npm-confbox-0.2.4.txt"
-    },
-    {
-      "ecosystem": "npm",
-      "packageName": "copy-anything",
-      "version": "4.0.5",
-      "declaredLicence": "MIT",
-      "sourceType": "package",
-      "sourceFile": "node_modules/copy-anything/LICENSE",
-      "outputFile": "compliance/third-party-licenses/npm-copy-anything.txt"
     },
     {
       "ecosystem": "npm",
@@ -796,33 +706,6 @@
     },
     {
       "ecosystem": "npm",
-      "packageName": "is-what",
-      "version": "5.5.0",
-      "declaredLicence": "MIT",
-      "sourceType": "package",
-      "sourceFile": "node_modules/is-what/LICENSE",
-      "outputFile": "compliance/third-party-licenses/npm-is-what.txt"
-    },
-    {
-      "ecosystem": "npm",
-      "packageName": "jsesc",
-      "version": "3.1.0",
-      "declaredLicence": "MIT",
-      "sourceType": "package",
-      "sourceFile": "node_modules/jsesc/LICENSE-MIT.txt",
-      "outputFile": "compliance/third-party-licenses/npm-jsesc.txt"
-    },
-    {
-      "ecosystem": "npm",
-      "packageName": "json5",
-      "version": "2.2.3",
-      "declaredLicence": "MIT",
-      "sourceType": "package",
-      "sourceFile": "node_modules/json5/LICENSE.md",
-      "outputFile": "compliance/third-party-licenses/npm-json5.txt"
-    },
-    {
-      "ecosystem": "npm",
       "packageName": "linkifyjs",
       "version": "4.3.3",
       "declaredLicence": "MIT",
@@ -865,15 +748,6 @@
       "sourceType": "package",
       "sourceFile": "node_modules/marked/LICENSE.md",
       "outputFile": "compliance/third-party-licenses/npm-marked.txt"
-    },
-    {
-      "ecosystem": "npm",
-      "packageName": "mitt",
-      "version": "3.0.1",
-      "declaredLicence": "MIT",
-      "sourceType": "package",
-      "sourceFile": "node_modules/mitt/LICENSE",
-      "outputFile": "compliance/third-party-licenses/npm-mitt.txt"
     },
     {
       "ecosystem": "npm",
@@ -941,20 +815,11 @@
     {
       "ecosystem": "npm",
       "packageName": "perfect-debounce",
-      "version": "1.0.0",
-      "declaredLicence": "MIT",
-      "sourceType": "package",
-      "sourceFile": "node_modules/perfect-debounce/LICENSE",
-      "outputFile": "compliance/third-party-licenses/npm-perfect-debounce-1.0.0.txt"
-    },
-    {
-      "ecosystem": "npm",
-      "packageName": "perfect-debounce",
       "version": "2.1.0",
       "declaredLicence": "MIT",
       "sourceType": "package",
-      "sourceFile": "node_modules/vue-router/node_modules/perfect-debounce/LICENSE",
-      "outputFile": "compliance/third-party-licenses/npm-perfect-debounce-2.1.0.txt"
+      "sourceFile": "node_modules/perfect-debounce/LICENSE",
+      "outputFile": "compliance/third-party-licenses/npm-perfect-debounce.txt"
     },
     {
       "ecosystem": "npm",
@@ -968,7 +833,7 @@
     {
       "ecosystem": "npm",
       "packageName": "picomatch",
-      "version": "4.0.5",
+      "version": "4.0.7",
       "declaredLicence": "MIT",
       "sourceType": "package",
       "sourceFile": "node_modules/picomatch/LICENSE",
@@ -977,7 +842,7 @@
     {
       "ecosystem": "npm",
       "packageName": "pinia",
-      "version": "3.0.4",
+      "version": "4.0.3",
       "declaredLicence": "MIT",
       "sourceType": "package",
       "sourceFile": "node_modules/pinia/LICENSE",
@@ -1004,7 +869,7 @@
     {
       "ecosystem": "npm",
       "packageName": "postcss",
-      "version": "8.5.25",
+      "version": "8.5.28",
       "declaredLicence": "MIT",
       "sourceType": "package",
       "sourceFile": "node_modules/postcss/LICENSE",
@@ -1183,15 +1048,6 @@
     },
     {
       "ecosystem": "npm",
-      "packageName": "rfdc",
-      "version": "1.4.1",
-      "declaredLicence": "MIT",
-      "sourceType": "package",
-      "sourceFile": "node_modules/rfdc/LICENSE",
-      "outputFile": "compliance/third-party-licenses/npm-rfdc.txt"
-    },
-    {
-      "ecosystem": "npm",
       "packageName": "rope-sequence",
       "version": "1.3.4",
       "declaredLicence": "MIT",
@@ -1225,24 +1081,6 @@
       "sourceType": "package",
       "sourceFile": "node_modules/source-map-js/LICENSE",
       "outputFile": "compliance/third-party-licenses/npm-source-map-js.txt"
-    },
-    {
-      "ecosystem": "npm",
-      "packageName": "speakingurl",
-      "version": "14.0.1",
-      "declaredLicence": "BSD-3-Clause",
-      "sourceType": "package",
-      "sourceFile": "node_modules/speakingurl/LICENSE",
-      "outputFile": "compliance/third-party-licenses/npm-speakingurl.txt"
-    },
-    {
-      "ecosystem": "npm",
-      "packageName": "superjson",
-      "version": "2.2.6",
-      "declaredLicence": "MIT",
-      "sourceType": "package",
-      "sourceFile": "node_modules/superjson/LICENSE",
-      "outputFile": "compliance/third-party-licenses/npm-superjson.txt"
     },
     {
       "ecosystem": "npm",
@@ -1319,7 +1157,7 @@
     {
       "ecosystem": "npm",
       "packageName": "vue",
-      "version": "3.5.40",
+      "version": "3.5.43",
       "declaredLicence": "MIT",
       "sourceType": "package",
       "sourceFile": "node_modules/vue/LICENSE",
@@ -1328,7 +1166,7 @@
     {
       "ecosystem": "npm",
       "packageName": "vue-router",
-      "version": "5.2.0",
+      "version": "5.3.1",
       "declaredLicence": "MIT",
       "sourceType": "package",
       "sourceFile": "node_modules/vue-router/LICENSE",
@@ -1380,15 +1218,6 @@
       "outputFile": "compliance/third-party-licenses/npm-ws.txt"
     },
     {
-      "ecosystem": "npm",
-      "packageName": "yaml",
-      "version": "2.9.0",
-      "declaredLicence": "ISC",
-      "sourceType": "package",
-      "sourceFile": "node_modules/yaml/LICENSE",
-      "outputFile": "compliance/third-party-licenses/npm-yaml.txt"
-    },
-    {
       "ecosystem": "nuget",
       "packageName": "Humanizer.Core",
       "version": "2.14.1",
@@ -1400,11 +1229,11 @@
     {
       "ecosystem": "nuget",
       "packageName": "Microsoft.AspNetCore.Authentication.JwtBearer",
-      "version": "10.0.10",
+      "version": "10.0.12",
       "declaredLicence": "MIT",
       "sourceType": "nuget-license-expression",
-      "sourceFile": "~/.nuget/packages/microsoft.aspnetcore.authentication.jwtbearer/10.0.10/microsoft.aspnetcore.authentication.jwtbearer.nuspec",
-      "outputFile": "compliance/third-party-licenses/nuget-microsoft.aspnetcore.authentication.jwtbearer-10.0.10.txt"
+      "sourceFile": "~/.nuget/packages/microsoft.aspnetcore.authentication.jwtbearer/10.0.12/microsoft.aspnetcore.authentication.jwtbearer.nuspec",
+      "outputFile": "compliance/third-party-licenses/nuget-microsoft.aspnetcore.authentication.jwtbearer-10.0.12.txt"
     },
     {
       "ecosystem": "nuget",
@@ -1472,65 +1301,65 @@
     {
       "ecosystem": "nuget",
       "packageName": "Microsoft.Data.Sqlite.Core",
-      "version": "10.0.10",
+      "version": "10.0.12",
       "declaredLicence": "MIT",
       "sourceType": "nuget-license-expression",
-      "sourceFile": "~/.nuget/packages/microsoft.data.sqlite.core/10.0.10/microsoft.data.sqlite.core.nuspec",
-      "outputFile": "compliance/third-party-licenses/nuget-microsoft.data.sqlite.core-10.0.10.txt"
+      "sourceFile": "~/.nuget/packages/microsoft.data.sqlite.core/10.0.12/microsoft.data.sqlite.core.nuspec",
+      "outputFile": "compliance/third-party-licenses/nuget-microsoft.data.sqlite.core-10.0.12.txt"
     },
     {
       "ecosystem": "nuget",
       "packageName": "Microsoft.EntityFrameworkCore",
-      "version": "10.0.10",
+      "version": "10.0.12",
       "declaredLicence": "MIT",
       "sourceType": "nuget-license-expression",
-      "sourceFile": "~/.nuget/packages/microsoft.entityframeworkcore/10.0.10/microsoft.entityframeworkcore.nuspec",
-      "outputFile": "compliance/third-party-licenses/nuget-microsoft.entityframeworkcore-10.0.10.txt"
+      "sourceFile": "~/.nuget/packages/microsoft.entityframeworkcore/10.0.12/microsoft.entityframeworkcore.nuspec",
+      "outputFile": "compliance/third-party-licenses/nuget-microsoft.entityframeworkcore-10.0.12.txt"
     },
     {
       "ecosystem": "nuget",
       "packageName": "Microsoft.EntityFrameworkCore.Abstractions",
-      "version": "10.0.10",
+      "version": "10.0.12",
       "declaredLicence": "MIT",
       "sourceType": "nuget-license-expression",
-      "sourceFile": "~/.nuget/packages/microsoft.entityframeworkcore.abstractions/10.0.10/microsoft.entityframeworkcore.abstractions.nuspec",
-      "outputFile": "compliance/third-party-licenses/nuget-microsoft.entityframeworkcore.abstractions-10.0.10.txt"
+      "sourceFile": "~/.nuget/packages/microsoft.entityframeworkcore.abstractions/10.0.12/microsoft.entityframeworkcore.abstractions.nuspec",
+      "outputFile": "compliance/third-party-licenses/nuget-microsoft.entityframeworkcore.abstractions-10.0.12.txt"
     },
     {
       "ecosystem": "nuget",
       "packageName": "Microsoft.EntityFrameworkCore.Analyzers",
-      "version": "10.0.10",
+      "version": "10.0.12",
       "declaredLicence": "MIT",
       "sourceType": "nuget-license-expression",
-      "sourceFile": "~/.nuget/packages/microsoft.entityframeworkcore.analyzers/10.0.10/microsoft.entityframeworkcore.analyzers.nuspec",
-      "outputFile": "compliance/third-party-licenses/nuget-microsoft.entityframeworkcore.analyzers-10.0.10.txt"
+      "sourceFile": "~/.nuget/packages/microsoft.entityframeworkcore.analyzers/10.0.12/microsoft.entityframeworkcore.analyzers.nuspec",
+      "outputFile": "compliance/third-party-licenses/nuget-microsoft.entityframeworkcore.analyzers-10.0.12.txt"
     },
     {
       "ecosystem": "nuget",
       "packageName": "Microsoft.EntityFrameworkCore.Relational",
-      "version": "10.0.10",
+      "version": "10.0.12",
       "declaredLicence": "MIT",
       "sourceType": "nuget-license-expression",
-      "sourceFile": "~/.nuget/packages/microsoft.entityframeworkcore.relational/10.0.10/microsoft.entityframeworkcore.relational.nuspec",
-      "outputFile": "compliance/third-party-licenses/nuget-microsoft.entityframeworkcore.relational-10.0.10.txt"
+      "sourceFile": "~/.nuget/packages/microsoft.entityframeworkcore.relational/10.0.12/microsoft.entityframeworkcore.relational.nuspec",
+      "outputFile": "compliance/third-party-licenses/nuget-microsoft.entityframeworkcore.relational-10.0.12.txt"
     },
     {
       "ecosystem": "nuget",
       "packageName": "Microsoft.EntityFrameworkCore.Sqlite",
-      "version": "10.0.10",
+      "version": "10.0.12",
       "declaredLicence": "MIT",
       "sourceType": "nuget-license-expression",
-      "sourceFile": "~/.nuget/packages/microsoft.entityframeworkcore.sqlite/10.0.10/microsoft.entityframeworkcore.sqlite.nuspec",
-      "outputFile": "compliance/third-party-licenses/nuget-microsoft.entityframeworkcore.sqlite-10.0.10.txt"
+      "sourceFile": "~/.nuget/packages/microsoft.entityframeworkcore.sqlite/10.0.12/microsoft.entityframeworkcore.sqlite.nuspec",
+      "outputFile": "compliance/third-party-licenses/nuget-microsoft.entityframeworkcore.sqlite-10.0.12.txt"
     },
     {
       "ecosystem": "nuget",
       "packageName": "Microsoft.EntityFrameworkCore.Sqlite.Core",
-      "version": "10.0.10",
+      "version": "10.0.12",
       "declaredLicence": "MIT",
       "sourceType": "nuget-license-expression",
-      "sourceFile": "~/.nuget/packages/microsoft.entityframeworkcore.sqlite.core/10.0.10/microsoft.entityframeworkcore.sqlite.core.nuspec",
-      "outputFile": "compliance/third-party-licenses/nuget-microsoft.entityframeworkcore.sqlite.core-10.0.10.txt"
+      "sourceFile": "~/.nuget/packages/microsoft.entityframeworkcore.sqlite.core/10.0.12/microsoft.entityframeworkcore.sqlite.core.nuspec",
+      "outputFile": "compliance/third-party-licenses/nuget-microsoft.entityframeworkcore.sqlite.core-10.0.12.txt"
     },
     {
       "ecosystem": "nuget",
@@ -1544,38 +1373,38 @@
     {
       "ecosystem": "nuget",
       "packageName": "Microsoft.Extensions.DependencyModel",
-      "version": "10.0.10",
+      "version": "10.0.12",
       "declaredLicence": "MIT",
       "sourceType": "nuget-license-expression",
-      "sourceFile": "~/.nuget/packages/microsoft.extensions.dependencymodel/10.0.10/microsoft.extensions.dependencymodel.nuspec",
-      "outputFile": "compliance/third-party-licenses/nuget-microsoft.extensions.dependencymodel-10.0.10.txt"
+      "sourceFile": "~/.nuget/packages/microsoft.extensions.dependencymodel/10.0.12/microsoft.extensions.dependencymodel.nuspec",
+      "outputFile": "compliance/third-party-licenses/nuget-microsoft.extensions.dependencymodel-10.0.12.txt"
     },
     {
       "ecosystem": "nuget",
       "packageName": "Microsoft.IdentityModel.Abstractions",
-      "version": "8.22.0",
+      "version": "8.23.0",
       "declaredLicence": "MIT",
       "sourceType": "nuget-license-expression",
-      "sourceFile": "~/.nuget/packages/microsoft.identitymodel.abstractions/8.22.0/microsoft.identitymodel.abstractions.nuspec",
-      "outputFile": "compliance/third-party-licenses/nuget-microsoft.identitymodel.abstractions-8.22.0.txt"
+      "sourceFile": "~/.nuget/packages/microsoft.identitymodel.abstractions/8.23.0/microsoft.identitymodel.abstractions.nuspec",
+      "outputFile": "compliance/third-party-licenses/nuget-microsoft.identitymodel.abstractions-8.23.0.txt"
     },
     {
       "ecosystem": "nuget",
       "packageName": "Microsoft.IdentityModel.JsonWebTokens",
-      "version": "8.22.0",
+      "version": "8.23.0",
       "declaredLicence": "MIT",
       "sourceType": "nuget-license-expression",
-      "sourceFile": "~/.nuget/packages/microsoft.identitymodel.jsonwebtokens/8.22.0/microsoft.identitymodel.jsonwebtokens.nuspec",
-      "outputFile": "compliance/third-party-licenses/nuget-microsoft.identitymodel.jsonwebtokens-8.22.0.txt"
+      "sourceFile": "~/.nuget/packages/microsoft.identitymodel.jsonwebtokens/8.23.0/microsoft.identitymodel.jsonwebtokens.nuspec",
+      "outputFile": "compliance/third-party-licenses/nuget-microsoft.identitymodel.jsonwebtokens-8.23.0.txt"
     },
     {
       "ecosystem": "nuget",
       "packageName": "Microsoft.IdentityModel.Logging",
-      "version": "8.22.0",
+      "version": "8.23.0",
       "declaredLicence": "MIT",
       "sourceType": "nuget-license-expression",
-      "sourceFile": "~/.nuget/packages/microsoft.identitymodel.logging/8.22.0/microsoft.identitymodel.logging.nuspec",
-      "outputFile": "compliance/third-party-licenses/nuget-microsoft.identitymodel.logging-8.22.0.txt"
+      "sourceFile": "~/.nuget/packages/microsoft.identitymodel.logging/8.23.0/microsoft.identitymodel.logging.nuspec",
+      "outputFile": "compliance/third-party-licenses/nuget-microsoft.identitymodel.logging-8.23.0.txt"
     },
     {
       "ecosystem": "nuget",
@@ -1598,20 +1427,20 @@
     {
       "ecosystem": "nuget",
       "packageName": "Microsoft.IdentityModel.Tokens",
-      "version": "8.22.0",
+      "version": "8.23.0",
       "declaredLicence": "MIT",
       "sourceType": "nuget-license-expression",
-      "sourceFile": "~/.nuget/packages/microsoft.identitymodel.tokens/8.22.0/microsoft.identitymodel.tokens.nuspec",
-      "outputFile": "compliance/third-party-licenses/nuget-microsoft.identitymodel.tokens-8.22.0.txt"
+      "sourceFile": "~/.nuget/packages/microsoft.identitymodel.tokens/8.23.0/microsoft.identitymodel.tokens.nuspec",
+      "outputFile": "compliance/third-party-licenses/nuget-microsoft.identitymodel.tokens-8.23.0.txt"
     },
     {
       "ecosystem": "nuget",
       "packageName": "Microsoft.OpenApi",
-      "version": "1.6.14",
+      "version": "2.7.5",
       "declaredLicence": "MIT",
       "sourceType": "nuget-license-expression",
-      "sourceFile": "~/.nuget/packages/microsoft.openapi/1.6.14/microsoft.openapi.nuspec",
-      "outputFile": "compliance/third-party-licenses/nuget-microsoft.openapi-1.6.14.txt"
+      "sourceFile": "~/.nuget/packages/microsoft.openapi/2.7.5/microsoft.openapi.nuspec",
+      "outputFile": "compliance/third-party-licenses/nuget-microsoft.openapi-2.7.5.txt"
     },
     {
       "ecosystem": "nuget",
@@ -1661,164 +1490,173 @@
     {
       "ecosystem": "nuget",
       "packageName": "Newtonsoft.Json",
-      "version": "13.0.3",
+      "version": "13.0.4",
       "declaredLicence": "MIT",
       "sourceType": "nuget-license-expression",
-      "sourceFile": "~/.nuget/packages/newtonsoft.json/13.0.3/newtonsoft.json.nuspec",
-      "outputFile": "compliance/third-party-licenses/nuget-newtonsoft.json-13.0.3.txt"
+      "sourceFile": "~/.nuget/packages/newtonsoft.json/13.0.4/newtonsoft.json.nuspec",
+      "outputFile": "compliance/third-party-licenses/nuget-newtonsoft.json-13.0.4.txt"
     },
     {
       "ecosystem": "nuget",
       "packageName": "OpenIddict.Abstractions",
-      "version": "7.6.0",
+      "version": "7.7.1",
       "declaredLicence": "Apache-2.0",
       "sourceType": "nuget-license-expression",
-      "sourceFile": "~/.nuget/packages/openiddict.abstractions/7.6.0/openiddict.abstractions.nuspec",
-      "outputFile": "compliance/third-party-licenses/nuget-openiddict.abstractions-7.6.0.txt"
+      "sourceFile": "~/.nuget/packages/openiddict.abstractions/7.7.1/openiddict.abstractions.nuspec",
+      "outputFile": "compliance/third-party-licenses/nuget-openiddict.abstractions-7.7.1.txt"
     },
     {
       "ecosystem": "nuget",
       "packageName": "OpenIddict.Core",
-      "version": "7.6.0",
+      "version": "7.7.1",
       "declaredLicence": "Apache-2.0",
       "sourceType": "nuget-license-expression",
-      "sourceFile": "~/.nuget/packages/openiddict.core/7.6.0/openiddict.core.nuspec",
-      "outputFile": "compliance/third-party-licenses/nuget-openiddict.core-7.6.0.txt"
+      "sourceFile": "~/.nuget/packages/openiddict.core/7.7.1/openiddict.core.nuspec",
+      "outputFile": "compliance/third-party-licenses/nuget-openiddict.core-7.7.1.txt"
     },
     {
       "ecosystem": "nuget",
       "packageName": "OpenIddict.EntityFrameworkCore",
-      "version": "7.6.0",
+      "version": "7.7.1",
       "declaredLicence": "Apache-2.0",
       "sourceType": "nuget-license-expression",
-      "sourceFile": "~/.nuget/packages/openiddict.entityframeworkcore/7.6.0/openiddict.entityframeworkcore.nuspec",
-      "outputFile": "compliance/third-party-licenses/nuget-openiddict.entityframeworkcore-7.6.0.txt"
+      "sourceFile": "~/.nuget/packages/openiddict.entityframeworkcore/7.7.1/openiddict.entityframeworkcore.nuspec",
+      "outputFile": "compliance/third-party-licenses/nuget-openiddict.entityframeworkcore-7.7.1.txt"
     },
     {
       "ecosystem": "nuget",
       "packageName": "OpenIddict.EntityFrameworkCore.Models",
-      "version": "7.6.0",
+      "version": "7.7.1",
       "declaredLicence": "Apache-2.0",
       "sourceType": "nuget-license-expression",
-      "sourceFile": "~/.nuget/packages/openiddict.entityframeworkcore.models/7.6.0/openiddict.entityframeworkcore.models.nuspec",
-      "outputFile": "compliance/third-party-licenses/nuget-openiddict.entityframeworkcore.models-7.6.0.txt"
+      "sourceFile": "~/.nuget/packages/openiddict.entityframeworkcore.models/7.7.1/openiddict.entityframeworkcore.models.nuspec",
+      "outputFile": "compliance/third-party-licenses/nuget-openiddict.entityframeworkcore.models-7.7.1.txt"
     },
     {
       "ecosystem": "nuget",
       "packageName": "OpenIddict.Server",
-      "version": "7.6.0",
+      "version": "7.7.1",
       "declaredLicence": "Apache-2.0",
       "sourceType": "nuget-license-expression",
-      "sourceFile": "~/.nuget/packages/openiddict.server/7.6.0/openiddict.server.nuspec",
-      "outputFile": "compliance/third-party-licenses/nuget-openiddict.server-7.6.0.txt"
+      "sourceFile": "~/.nuget/packages/openiddict.server/7.7.1/openiddict.server.nuspec",
+      "outputFile": "compliance/third-party-licenses/nuget-openiddict.server-7.7.1.txt"
     },
     {
       "ecosystem": "nuget",
       "packageName": "OpenIddict.Server.AspNetCore",
-      "version": "7.6.0",
+      "version": "7.7.1",
       "declaredLicence": "Apache-2.0",
       "sourceType": "nuget-license-expression",
-      "sourceFile": "~/.nuget/packages/openiddict.server.aspnetcore/7.6.0/openiddict.server.aspnetcore.nuspec",
-      "outputFile": "compliance/third-party-licenses/nuget-openiddict.server.aspnetcore-7.6.0.txt"
+      "sourceFile": "~/.nuget/packages/openiddict.server.aspnetcore/7.7.1/openiddict.server.aspnetcore.nuspec",
+      "outputFile": "compliance/third-party-licenses/nuget-openiddict.server.aspnetcore-7.7.1.txt"
     },
     {
       "ecosystem": "nuget",
       "packageName": "OpenIddict.Validation",
-      "version": "7.6.0",
+      "version": "7.7.1",
       "declaredLicence": "Apache-2.0",
       "sourceType": "nuget-license-expression",
-      "sourceFile": "~/.nuget/packages/openiddict.validation/7.6.0/openiddict.validation.nuspec",
-      "outputFile": "compliance/third-party-licenses/nuget-openiddict.validation-7.6.0.txt"
+      "sourceFile": "~/.nuget/packages/openiddict.validation/7.7.1/openiddict.validation.nuspec",
+      "outputFile": "compliance/third-party-licenses/nuget-openiddict.validation-7.7.1.txt"
     },
     {
       "ecosystem": "nuget",
       "packageName": "OpenIddict.Validation.AspNetCore",
-      "version": "7.6.0",
+      "version": "7.7.1",
       "declaredLicence": "Apache-2.0",
       "sourceType": "nuget-license-expression",
-      "sourceFile": "~/.nuget/packages/openiddict.validation.aspnetcore/7.6.0/openiddict.validation.aspnetcore.nuspec",
-      "outputFile": "compliance/third-party-licenses/nuget-openiddict.validation.aspnetcore-7.6.0.txt"
+      "sourceFile": "~/.nuget/packages/openiddict.validation.aspnetcore/7.7.1/openiddict.validation.aspnetcore.nuspec",
+      "outputFile": "compliance/third-party-licenses/nuget-openiddict.validation.aspnetcore-7.7.1.txt"
     },
     {
       "ecosystem": "nuget",
       "packageName": "OpenIddict.Validation.ServerIntegration",
-      "version": "7.6.0",
+      "version": "7.7.1",
       "declaredLicence": "Apache-2.0",
       "sourceType": "nuget-license-expression",
-      "sourceFile": "~/.nuget/packages/openiddict.validation.serverintegration/7.6.0/openiddict.validation.serverintegration.nuspec",
-      "outputFile": "compliance/third-party-licenses/nuget-openiddict.validation.serverintegration-7.6.0.txt"
+      "sourceFile": "~/.nuget/packages/openiddict.validation.serverintegration/7.7.1/openiddict.validation.serverintegration.nuspec",
+      "outputFile": "compliance/third-party-licenses/nuget-openiddict.validation.serverintegration-7.7.1.txt"
+    },
+    {
+      "ecosystem": "nuget",
+      "packageName": "SQLite",
+      "version": "3.53.4",
+      "declaredLicence": "LICENSE.txt",
+      "sourceType": "nuget-package-file",
+      "sourceFile": "~/.nuget/packages/sqlite/3.53.4/LICENSE.txt",
+      "outputFile": "compliance/third-party-licenses/nuget-sqlite-3.53.4.txt"
     },
     {
       "ecosystem": "nuget",
       "packageName": "SQLitePCLRaw.bundle_e_sqlite3",
-      "version": "2.1.12",
+      "version": "3.0.5",
       "declaredLicence": "Apache-2.0",
       "sourceType": "nuget-license-expression",
-      "sourceFile": "~/.nuget/packages/sqlitepclraw.bundle_e_sqlite3/2.1.12/sqlitepclraw.bundle_e_sqlite3.nuspec",
-      "outputFile": "compliance/third-party-licenses/nuget-sqlitepclraw.bundle-e-sqlite3-2.1.12.txt"
+      "sourceFile": "~/.nuget/packages/sqlitepclraw.bundle_e_sqlite3/3.0.5/sqlitepclraw.bundle_e_sqlite3.nuspec",
+      "outputFile": "compliance/third-party-licenses/nuget-sqlitepclraw.bundle-e-sqlite3-3.0.5.txt"
+    },
+    {
+      "ecosystem": "nuget",
+      "packageName": "SQLitePCLRaw.config.e_sqlite3",
+      "version": "3.0.5",
+      "declaredLicence": "Apache-2.0",
+      "sourceType": "nuget-license-expression",
+      "sourceFile": "~/.nuget/packages/sqlitepclraw.config.e_sqlite3/3.0.5/sqlitepclraw.config.e_sqlite3.nuspec",
+      "outputFile": "compliance/third-party-licenses/nuget-sqlitepclraw.config.e-sqlite3-3.0.5.txt"
     },
     {
       "ecosystem": "nuget",
       "packageName": "SQLitePCLRaw.core",
-      "version": "2.1.12",
+      "version": "3.0.5",
       "declaredLicence": "Apache-2.0",
       "sourceType": "nuget-license-expression",
-      "sourceFile": "~/.nuget/packages/sqlitepclraw.core/2.1.12/sqlitepclraw.core.nuspec",
-      "outputFile": "compliance/third-party-licenses/nuget-sqlitepclraw.core-2.1.12.txt"
-    },
-    {
-      "ecosystem": "nuget",
-      "packageName": "SQLitePCLRaw.lib.e_sqlite3",
-      "version": "2.1.12",
-      "declaredLicence": "Apache-2.0",
-      "sourceType": "nuget-license-expression",
-      "sourceFile": "~/.nuget/packages/sqlitepclraw.lib.e_sqlite3/2.1.12/sqlitepclraw.lib.e_sqlite3.nuspec",
-      "outputFile": "compliance/third-party-licenses/nuget-sqlitepclraw.lib.e-sqlite3-2.1.12.txt"
+      "sourceFile": "~/.nuget/packages/sqlitepclraw.core/3.0.5/sqlitepclraw.core.nuspec",
+      "outputFile": "compliance/third-party-licenses/nuget-sqlitepclraw.core-3.0.5.txt"
     },
     {
       "ecosystem": "nuget",
       "packageName": "SQLitePCLRaw.provider.e_sqlite3",
-      "version": "2.1.12",
+      "version": "3.0.5",
       "declaredLicence": "Apache-2.0",
       "sourceType": "nuget-license-expression",
-      "sourceFile": "~/.nuget/packages/sqlitepclraw.provider.e_sqlite3/2.1.12/sqlitepclraw.provider.e_sqlite3.nuspec",
-      "outputFile": "compliance/third-party-licenses/nuget-sqlitepclraw.provider.e-sqlite3-2.1.12.txt"
+      "sourceFile": "~/.nuget/packages/sqlitepclraw.provider.e_sqlite3/3.0.5/sqlitepclraw.provider.e_sqlite3.nuspec",
+      "outputFile": "compliance/third-party-licenses/nuget-sqlitepclraw.provider.e-sqlite3-3.0.5.txt"
     },
     {
       "ecosystem": "nuget",
       "packageName": "Swashbuckle.AspNetCore",
-      "version": "6.6.2",
+      "version": "10.2.3",
       "declaredLicence": "MIT",
       "sourceType": "nuget-license-expression",
-      "sourceFile": "~/.nuget/packages/swashbuckle.aspnetcore/6.6.2/swashbuckle.aspnetcore.nuspec",
-      "outputFile": "compliance/third-party-licenses/nuget-swashbuckle.aspnetcore-6.6.2.txt"
+      "sourceFile": "~/.nuget/packages/swashbuckle.aspnetcore/10.2.3/swashbuckle.aspnetcore.nuspec",
+      "outputFile": "compliance/third-party-licenses/nuget-swashbuckle.aspnetcore-10.2.3.txt"
     },
     {
       "ecosystem": "nuget",
       "packageName": "Swashbuckle.AspNetCore.Swagger",
-      "version": "6.6.2",
+      "version": "10.2.3",
       "declaredLicence": "MIT",
       "sourceType": "nuget-license-expression",
-      "sourceFile": "~/.nuget/packages/swashbuckle.aspnetcore.swagger/6.6.2/swashbuckle.aspnetcore.swagger.nuspec",
-      "outputFile": "compliance/third-party-licenses/nuget-swashbuckle.aspnetcore.swagger-6.6.2.txt"
+      "sourceFile": "~/.nuget/packages/swashbuckle.aspnetcore.swagger/10.2.3/swashbuckle.aspnetcore.swagger.nuspec",
+      "outputFile": "compliance/third-party-licenses/nuget-swashbuckle.aspnetcore.swagger-10.2.3.txt"
     },
     {
       "ecosystem": "nuget",
       "packageName": "Swashbuckle.AspNetCore.SwaggerGen",
-      "version": "6.6.2",
+      "version": "10.2.3",
       "declaredLicence": "MIT",
       "sourceType": "nuget-license-expression",
-      "sourceFile": "~/.nuget/packages/swashbuckle.aspnetcore.swaggergen/6.6.2/swashbuckle.aspnetcore.swaggergen.nuspec",
-      "outputFile": "compliance/third-party-licenses/nuget-swashbuckle.aspnetcore.swaggergen-6.6.2.txt"
+      "sourceFile": "~/.nuget/packages/swashbuckle.aspnetcore.swaggergen/10.2.3/swashbuckle.aspnetcore.swaggergen.nuspec",
+      "outputFile": "compliance/third-party-licenses/nuget-swashbuckle.aspnetcore.swaggergen-10.2.3.txt"
     },
     {
       "ecosystem": "nuget",
       "packageName": "Swashbuckle.AspNetCore.SwaggerUI",
-      "version": "6.6.2",
+      "version": "10.2.3",
       "declaredLicence": "MIT",
       "sourceType": "nuget-license-expression",
-      "sourceFile": "~/.nuget/packages/swashbuckle.aspnetcore.swaggerui/6.6.2/swashbuckle.aspnetcore.swaggerui.nuspec",
-      "outputFile": "compliance/third-party-licenses/nuget-swashbuckle.aspnetcore.swaggerui-6.6.2.txt"
+      "sourceFile": "~/.nuget/packages/swashbuckle.aspnetcore.swaggerui/10.2.3/swashbuckle.aspnetcore.swaggerui.nuspec",
+      "outputFile": "compliance/third-party-licenses/nuget-swashbuckle.aspnetcore.swaggerui-10.2.3.txt"
     },
     {
       "ecosystem": "nuget",
@@ -1886,11 +1724,11 @@
     {
       "ecosystem": "nuget",
       "packageName": "System.IdentityModel.Tokens.Jwt",
-      "version": "8.22.0",
+      "version": "8.23.0",
       "declaredLicence": "MIT",
       "sourceType": "nuget-license-expression",
-      "sourceFile": "~/.nuget/packages/system.identitymodel.tokens.jwt/8.22.0/system.identitymodel.tokens.jwt.nuspec",
-      "outputFile": "compliance/third-party-licenses/nuget-system.identitymodel.tokens.jwt-8.22.0.txt"
+      "sourceFile": "~/.nuget/packages/system.identitymodel.tokens.jwt/8.23.0/system.identitymodel.tokens.jwt.nuspec",
+      "outputFile": "compliance/third-party-licenses/nuget-system.identitymodel.tokens.jwt-8.23.0.txt"
     }
   ],
   "unresolvedPackages": []
